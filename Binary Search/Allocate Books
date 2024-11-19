@@ -7,7 +7,10 @@ Allocate books in such a way that:
 2. Each book should be allocated to only one student.
 3. Book allocation should be in a contiguous manner.
 You have to allocate the book to ‘m’ students such that the maximum number of pages assigned to a student is minimum.
-// Link- [Clickable Text](https://www.naukri.com/code360/problems/allocate-books_1090540?interviewProblemRedirection=true&attempt_status=COMPLETED)
+
+[Problem Link](https://www.naukri.com/code360/problems/allocate-books_1090540?interviewProblemRedirection=true&attempt_status=COMPLETED)
+
+
 // Code 
 
 
